@@ -12,7 +12,7 @@ function Card(prop) {
           <CiHeart color="black" size={30} />
         </div>
         <img
-          src="/src/assets/island.jpg"
+          src={prop.image}
           alt="Island"
           className="w-full h-full object-cover rounded-xl"
         />
