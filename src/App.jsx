@@ -93,7 +93,8 @@ function App() {
         <div
           className="flex items-center justify-center h-[70vh]"
           style={{
-            backgroundImage: "url(/src/assets/island.jpg)",
+            backgroundImage:
+              "url(https://media.istockphoto.com/id/187480030/tr/foto%C4%9Fraf/palm-trees-at-flamenco-beach-on-culebra-island-puerto-rico.jpg?s=612x612&w=0&k=20&c=aX4PhyXGOqf5WNHCBPULQ2RBj8vVkvaWtV25JMfntfU=)",
             backgroundSize: "cover",
             backgroundPosition: "center",
           }}
