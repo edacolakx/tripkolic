@@ -93,8 +93,7 @@ function App() {
         <div
           className="flex items-center justify-center h-[70vh]"
           style={{
-            backgroundImage:
-              "url(https://www.worldatlas.com/upload/1a/0a/4e/shutterstock-2311824935.jpg)",
+            backgroundImage: "url(/photo.PNG)",
             backgroundSize: "cover",
             backgroundPosition: "center",
           }}
